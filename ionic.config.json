@@ -1,0 +1,7 @@
+{
+  "name": "myChallange",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
